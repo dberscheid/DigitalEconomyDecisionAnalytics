@@ -1,8 +1,8 @@
-Name of Quantlet:	Smart Contract pattern distribution (SCpatternD)  
+Name of Quantlet:	SCpatternD  
 
 Published in: 		Digital Economy and Decision Analytics 
 
-Description: 		'This Quantlet creates a descriptive statistic regarding code patterns in smart contracts.
+Description: 		'Smart Contract pattern Distribution: This Quantlet creates a descriptive statistic regarding code patterns in smart contracts.
 			Based on the Ethereum blockchain, one can see its important code aspects. This information helps to improve
 			identification and development of those aspects.'
 	

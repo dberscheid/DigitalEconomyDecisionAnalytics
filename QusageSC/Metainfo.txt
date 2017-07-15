@@ -1,8 +1,8 @@
-Name of Quantlet:	Smart Contract Usage per Industry  (SCusagePI)  
+Name of Quantlet:	SCusagePI  
 
 Published in: 		Digital Economy and Decision Analytics 
 
-Description: 		'This Quantlet creates a descriptive statistic regarding Smart Contracts. Based on the Ethereum blockchain, 
+Description: 		'Smart Contract Usage per Industry: This Quantlet creates a descriptive statistic regarding Smart Contracts. Based on the Ethereum blockchain, 
 			one can see its usage within certain industries.'
 	
 Keywords :		'Ethereum, Smart Contract, blockchain, distribution, descriptive' 
